@@ -4595,6 +4595,7 @@ strong.logo-2 {
 .team-style-1 .box .text-box {
 	float: left;
 	width: 100%;
+    padding: 0 0 20px 0;
 }
 .team-style-1 .box .text-box h3 {
 	text-align: center;
